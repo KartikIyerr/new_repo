@@ -2,5 +2,5 @@
 
 a = 4
 b = 5
-print(a+b)
+print("The addition of 2 numbers are: ",a+b)
 
